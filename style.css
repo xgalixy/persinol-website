@@ -2,3 +2,23 @@ html {
   height: 100%;
   width: 100%;
 }
+
+section {
+  color: #00ffcc
+} 
+
+.content-section{
+  color:black;
+}
+
+#Contact{
+  color: red;
+}
+
+#paragraph-contact {
+  color: purple;
+}
+
+#paragraph-Education {
+  color: #424fff;
+}
